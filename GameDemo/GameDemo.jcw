@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>GameDemo</label>
+	</settings>
+	<users>
+		<user>
+			<path>GameDemo.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>GameDemo.jcp</path>
+		</project>
+	</projects>
+</workspace>
